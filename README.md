@@ -28,4 +28,4 @@ Drink List App is a basic Android application where users can:
 - *Drop down menu "AutoCompleteTextView"*
 - *Implicit Intent* for email.
 
-- this was a training of dropDownMenu and Implicit Intent
+## this was a training of dropDownMenu and Implicit Intent
